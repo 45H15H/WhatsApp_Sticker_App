@@ -4,9 +4,9 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Cuppy",
-      "publisher": "Jane Doe",
-      "tray_image_file": "tray_Cuppy.png",
+      "name": "Sentinel",
+      "publisher": "Valorant",
+      "tray_image_file": "Tray_Cool_Joy_Spray.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
@@ -15,45 +15,192 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "200_IQ_Spray.webp",
+          "image_file": "All_Good_Spray.webp",
           "emojis": [
             "☕",
             "🙂"
           ]
         },
         {
-          "image_file": "Clip_It_Spray.webp",
+          "image_file": "Always_Watching_Spray.webp",
           "emojis": [
             "😄",
             "😀"
           ]
         },
         {
-          "image_file": "Ego_Spray.webp",
+          "image_file": "Cool_Joy_Spray.webp",
           "emojis": [
             "😆",
             "😂"
           ]
         },
         {
-          "image_file": "Getting_Reps_Spray.webp",
+          "image_file": "Definitely_Not_It_Spray.webp",
           "emojis": [
             "😩",
             "😰"
           ]
         },
         {
-          "image_file": "Nice_to_Zap_You_Spray.webp",
+          "image_file": "Don't_Watch_This_Spray.webp",
           "emojis": [
             "😭",
             "💧"
           ]
         },
         {
-          "image_file": "VALORANT_GO_Vol_1_Killjoy_Spray.webp",
+          "image_file": "Guess_That's_It_Spray.webp",
           "emojis": [
             "😍",
             "♥"
+          ]
+        },
+        {
+          "image_file": "Here_I_Am_Spray.webp",
+          "emojis": [
+            "😊",
+            "👌"
+          ]
+        },
+        {
+          "image_file": "Hold_Up_Spray.webp",
+          "emojis": [
+            "🧑‍🤝‍🧑",
+            "☝️"
+          ]
+        },
+        {
+          "image_file": "Keeping_Secrets_Spray.webp",
+          "emojis": [
+            "🔤",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "Killjoy_Spray.webp",
+          "emojis": [
+            "😘",
+            "😄"
+          ]
+        },
+        {
+          "image_file": "Killjoy!_I_Choose_You!_Spray.webp",
+          "emojis": [
+            "ℹ️",
+            "💬"
+          ]
+        },
+        {
+          "image_file": "No_Duelist_No_Problem_Spray.webp",
+          "emojis": [
+            "🙅‍♂️",
+            "♟️"
+          ]
+        },
+        {
+          "image_file": "One_In_The_Chamber_Spray.webp",
+          "emojis": [
+            "🤌",
+            "🏆"
+          ]
+        },
+        {
+          "image_file": "Seeing_Double_Spray.webp",
+          "emojis": [
+            "🙈",
+            "‼️"
+          ]
+        },
+        {
+          "image_file": "Terrible_Day_for_Rain_Spray.webp",
+          "emojis": [
+            "😰",
+            "🌦️"
+          ]
+        },
+        {
+          "image_file": "This_is_Really_Not_Fine_Spray.webp",
+          "emojis": [
+            "🙅",
+            "👇"
+          ]
+        },
+        {
+          "image_file": "Thumbs_Up_Spray.webp",
+          "emojis": [
+            "👍",
+            "☝️"
+          ]
+        },
+        {
+          "image_file": "Too_Early_for_This_Spray.webp",
+          "emojis": [
+            "🌅",
+            "🕐"
+          ]
+        },
+        {
+          "image_file": "Too_Heavy_Spray.webp",
+          "emojis": [
+            "🪨",
+            "😠"
+          ]
+        },
+        {
+          "image_file": "Without_a_Trace_Spray.webp",
+          "emojis": [
+            "🔄️",
+            "🚜"
+          ]
+        },
+        {
+          "image_file": "Trust_in_My_Healing_Spray.webp",
+          "emojis": [
+            "🫡",
+            "🧑‍⚕️"
+          ]
+        },
+        {
+          "image_file": "Unamused_Chamber_Spray.webp",
+          "emojis": [
+            "😒",
+            "♨️"
+          ]
+        },
+        {
+          "image_file": "VALORANT_GO!_Vol._1_Cypher_Spray.webp",
+          "emojis": [
+            "🧑‍💻",
+            "🫥"
+          ]
+        },
+        {
+          "image_file": "VALORANT_GO!_Vol._1_Killjoy_Spray.webp",
+          "emojis": [
+            "👨‍💻",
+            "😃"
+          ]
+        },
+        {
+          "image_file": "VALORANT_GO!_Vol._1_Sage_Spray.webp",
+          "emojis": [
+            "🦸",
+            "👩‍⚕️"
+          ]
+        },
+        {
+          "image_file": "Variable_Removed_Spray.webp",
+          "emojis": [
+            "⚡",
+            "🎗️"
+          ]
+        },
+        {
+          "image_file": "Well_Played_Spray.webp",
+          "emojis": [
+            "👋",
+            "🎮"
           ]
         }
       ]

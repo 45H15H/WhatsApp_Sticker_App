@@ -202,181 +202,187 @@
       "identifier": "2",
       "name": "Controller",
       "publisher": "Valorant",
-      "tray_image_file": "01.png",
+      "tray_image_file": "Tray_Woke_Up_Thinking_Lineups_Spray.png",
       "image_data_version": "1",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
-      "animated_sticker_pack": true,
       "stickers": [
         {
-          "image_file": "01_SendingLove.webp",
+          "image_file": "Agent_Down_Spray.webp",
           "emojis": [
-            "🥰",
-            "😘",
-            "❤️"
+            "💀",
+            "🤥"
           ]
         },
         {
-          "image_file": "02_WellDoThisTogether.webp",
+          "image_file": "Bawk_Bawk_Brimstone_Spray.webp",
           "emojis": [
-            "✊",
-            "💪",
-            "🙏"
+            "🐕",
+            "🐶"
           ]
         },
         {
-          "image_file": "03_Heart.webp",
+          "image_file": "Blasting_Away_Spray.webp",
           "emojis": [
-            "❤️",
-            "🥰",
-            "💕"
+            "😒",
+            "💥"
           ]
         },
         {
-          "image_file": "04_AirHighFive.webp",
+          "image_file": "Chill_Out_Spray.webp",
           "emojis": [
-            "🖐",
-            "🙌",
-            "✋"
+            "🧒",
+            "💌"
           ]
         },
         {
-          "image_file": "05_GroupVideoCalling.webp",
+          "image_file": "Deadly_Venom_Spray.webp",
           "emojis": [
-            "📱",
-            "👯",
-            "👋"
+            "🐍",
+            "🫰"
           ]
         },
         {
-          "image_file": "06_StayConnected.webp",
+          "image_file": "Galaxy_Brain_Spray.webp",
           "emojis": [
-            "📱",
-            "🙋‍♀",
-            "🙋‍♂"
+            "⭐",
+            "🌌"
           ]
         },
         {
-          "image_file": "07_OK.webp",
+          "image_file": "Head_Slapper_Spray.webp",
           "emojis": [
-            "👍",
-            "👌",
-            "🙂"
+            "🤕",
+            "🤚"
           ]
         },
         {
-          "image_file": "08_AreYouOK.webp",
+          "image_file": "Hide_the_Pain,_Brimstone_Spray.webp",
           "emojis": [
-            "👋",
-            "❓",
-            "📱"
+            "🥷",
+            "🎨"
           ]
         },
         {
-          "image_file": "09_StayingHomeMug.webp",
+          "image_file": "Just_Business_Spray.webp",
           "emojis": [
-            "☕",
-            "🍵",
-            "🏠"
+            "🧑‍💼",
+            "🐍"
           ]
         },
         {
-          "image_file": "10_WorkingFromBed.webp",
+          "image_file": "Just_Jokin_Spray.webp",
           "emojis": [
-            "👩‍💻",
-            "👨‍💻",
-            "🛏"
+            "🧔‍♂️",
+            "😜"
           ]
         },
         {
-          "image_file": "11_StayCalm.webp",
+          "image_file": "Kohaku_Spray.webp",
           "emojis": [
-            "🧘♀",
-            "🧘♂",
-            "🤙"
+            "🐠",
+            "🌊"
           ]
         },
         {
-          "image_file": "12_Gymnastics.webp",
+          "image_file": "Look_Behind_You_Spray.webp",
           "emojis": [
-            "🤸",
-            "🐩",
-            "💪"
+            "🙈",
+            "🔙"
           ]
         },
         {
-          "image_file": "13_DoubleChecking.webp",
+          "image_file": "Not_Impressed_Spray.webp",
           "emojis": [
-            "📰",
-            "🔎",
-            "🔍"
+            "🙅‍♂️",
+            "🙃"
           ]
         },
         {
-          "image_file": "14_CatOnTheLaptop.webp",
+          "image_file": "Pick_Your_Poison_Spray.webp",
           "emojis": [
-            "🐈",
-            "🐱",
-            "💻"
+            "🐍",
+            "☠️"
           ]
         },
         {
-          "image_file": "15_WorkingFromHomeF.webp",
+          "image_file": "Pros_Don't_Fake_Spray.webp",
           "emojis": [
-            "👩‍💻",
-            "🏠",
-            "💻"
+            "🥲",
+            "✅"
           ]
         },
         {
-          "image_file": "16_WorkingFromHomeM.webp",
+          "image_file": "Scoop_of_Smoke_Spray.webp",
           "emojis": [
-            "👨‍💻",
-            "🏠",
-            "💻"
+            "🐍",
+            "🚬"
           ]
         },
         {
-          "image_file": "17_WashingHands.webp",
+          "image_file": "See_You_Next_Round_Spray.webp",
           "emojis": [
-            "✋",
+            "🙈",
+            "⌚"
+          ]
+        },
+        {
+          "image_file": "Skeptical_Viper_Spray.webp",
+          "emojis": [
+            "🤨",
+            "🐍"
+          ]
+        },
+        {
+          "image_file": "Stay_Hydrated_Spray.webp",
+          "emojis": [
             "💦",
-            "🧼"
+            "🍼"
           ]
         },
         {
-          "image_file": "18_DontTouchYourFace.webp",
+          "image_file": "Stay_Safe_Wash_Your_Hands_Spray.webp",
           "emojis": [
-            "😷",
-            "🤒",
-            "🤧"
+            "🛟",
+            "🤚"
           ]
         },
         {
-          "image_file": "19_SocialDistancing.webp",
+          "image_file": "VALORANT_GO_Vol_2_Viper_Spray.webp",
           "emojis": [
-            "😷",
-            "🤒",
-            "🏠"
+            "🐍",
+            "💚"
           ]
         },
         {
-          "image_file": "20_SuperheroNurse.webp",
+          "image_file": "Very_Sneaky_Spray.webp",
           "emojis": [
-            "👩‍⚕",
-            "👨‍⚕️",
-            "🩺"
+            "👟",
+            "🤫"
           ]
         },
         {
-          "image_file": "21_YouAreMyHero.webp",
+          "image_file": "Volunteer_Spray.webp",
           "emojis": [
-            "🙏",
-            "🦸‍♀️",
-            "🦸"
+            "🏐",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Woke_Up_Thinking_Lineups_Spray.webp",
+          "emojis": [
+            "🕗",
+            "🔗"
+          ]
+        },
+        {
+          "image_file": "Written_in_the_Stars_Spray.webp",
+          "emojis": [
+            "📝",
+            "⭐"
           ]
         }
       ]

@@ -200,8 +200,8 @@
     },
     {
       "identifier": "2",
-      "name": "Together While Apart",
-      "publisher": "World Health Organization",
+      "name": "Controller",
+      "publisher": "Valorant",
       "tray_image_file": "01.png",
       "image_data_version": "1",
       "avoid_cache": false,

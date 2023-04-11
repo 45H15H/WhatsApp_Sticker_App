@@ -386,6 +386,202 @@
           ]
         }
       ]
+    },
+    {
+      "identifier": "3",
+      "name": "Initiator",
+      "publisher": "Valorant",
+      "tray_image_file": "Tray_Sova_Says_Sorry_Spray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Backseat_Coaching_Spray.webp",
+          "emojis": [
+            "💀",
+            "🤥"
+          ]
+        },
+        {
+          "image_file": "Breach's_Approval_Spray.webp",
+          "emojis": [
+            "🐕",
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "Champions_2022_Curse_Spray.webp",
+          "emojis": [
+            "😒",
+            "💥"
+          ]
+        },
+        {
+          "image_file": "Charge_Needed_Spray.webp",
+          "emojis": [
+            "🧒",
+            "💌"
+          ]
+        },
+        {
+          "image_file": "Creature_Crew_Spray.webp",
+          "emojis": [
+            "🐍",
+            "🫰"
+          ]
+        },
+        {
+          "image_file": "Does_Not_Compute_Spray.webp",
+          "emojis": [
+            "⭐",
+            "🌌"
+          ]
+        },
+        {
+          "image_file": "Doomscrolling_Spray.webp",
+          "emojis": [
+            "🤕",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Drop_Skin_Please_Spray.webp",
+          "emojis": [
+            "🥷",
+            "🎨"
+          ]
+        },
+        {
+          "image_file": "Eye_Opener_Spray.webp",
+          "emojis": [
+            "🧑‍💼",
+            "🐍"
+          ]
+        },
+        {
+          "image_file": "Fakeout_Spray.webp",
+          "emojis": [
+            "🧔‍♂️",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "Fascinating_Spray.webp",
+          "emojis": [
+            "🐠",
+            "🌊"
+          ]
+        },
+        {
+          "image_file": "Hawk_Out_Spray.webp",
+          "emojis": [
+            "🙈",
+            "🔙"
+          ]
+        },
+        {
+          "image_file": "I've_Been_Hit_Spray.webp",
+          "emojis": [
+            "🙅‍♂️",
+            "🙃"
+          ]
+        },
+        {
+          "image_file": "Lets_Go_Spray.webp",
+          "emojis": [
+            "🐍",
+            "☠️"
+          ]
+        },
+        {
+          "image_file": "Mind_Blown_Spray.webp",
+          "emojis": [
+            "🥲",
+            "✅"
+          ]
+        },
+        {
+          "image_file": "Oh_No_Spray.webp",
+          "emojis": [
+            "🐍",
+            "🚬"
+          ]
+        },
+        {
+          "image_file": "Oh_Yes_Spray.webp",
+          "emojis": [
+            "🙈",
+            "⌚"
+          ]
+        },
+        {
+          "image_file": "On_Target_Spray.webp",
+          "emojis": [
+            "🤨",
+            "🐍"
+          ]
+        },
+        {
+          "image_file": "On_the_Prowl_Spray.webp",
+          "emojis": [
+            "💦",
+            "🍼"
+          ]
+        },
+        {
+          "image_file": "On_Your_Trail_Spray.webp",
+          "emojis": [
+            "🛟",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Shock_Heart_Spray.webp",
+          "emojis": [
+            "🐍",
+            "💚"
+          ]
+        },
+        {
+          "image_file": "Simple_Instructions_Spray.webp",
+          "emojis": [
+            "👟",
+            "🤫"
+          ]
+        },
+        {
+          "image_file": "Sova_Says_Sorry_Spray.webp",
+          "emojis": [
+            "🏐",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Take_My_Creds_Spray.webp",
+          "emojis": [
+            "🕗",
+            "🔗"
+          ]
+        },
+        {
+          "image_file": "This_is_Not_Fine_Spray.webp",
+          "emojis": [
+            "📝",
+            "⭐"
+          ]
+        },
+        {
+          "image_file": "VALORANT_GO_Vol_2_Sova_Spray.webp",
+          "emojis": [
+            "📝",
+            "🙅‍♂️"
+          ]
+        }
+      ]
     }
   ]
 }

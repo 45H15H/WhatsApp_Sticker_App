@@ -652,7 +652,7 @@
           ]
         },
         {
-          "image_file": "Embarrassing!_Spray.webp",
+          "image_file": "Embarrassing_Spray.webp",
           "emojis": [
             "🧑‍💼",
             "🐍"
@@ -796,6 +796,195 @@
           "emojis": [
             "📝",
             "🙅‍♂️"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Valorant",
+      "publisher": "Ashish Singh",
+      "tray_image_file": "Tray_Yikes_Spray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Pretty_Pretty_Please_Spray.webp",
+          "emojis": [
+            "💀",
+            "🤥"
+          ]
+        },
+        {
+          "image_file": "Raze_has_Range_Spray.webp",
+          "emojis": [
+            "🐕",
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "Raze_Spray.webp",
+          "emojis": [
+            "😒",
+            "💥"
+          ]
+        },
+        {
+          "image_file": "Revive_Me,_Jett!_Spray.webp",
+          "emojis": [
+            "🧒",
+            "💌"
+          ]
+        },
+        {
+          "image_file": "Reyna_Spray.webp",
+          "emojis": [
+            "🐍",
+            "🫰"
+          ]
+        },
+        {
+          "image_file": "Runnin'_on_Empty_Spray.webp",
+          "emojis": [
+            "⭐",
+            "🌌"
+          ]
+        },
+        {
+          "image_file": "Sad_Yoru_Spray.webp",
+          "emojis": [
+            "🤕",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Spotlight_Spray.webp",
+          "emojis": [
+            "🥷",
+            "🎨"
+          ]
+        },
+        {
+          "image_file": "Stop_Spray.webp",
+          "emojis": [
+            "🧑‍💼",
+            "🐍"
+          ]
+        },
+        {
+          "image_file": "Take_a_Bow_Spray.webp",
+          "emojis": [
+            "🧔‍♂️",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "This_is_Also_Also_Fine_Spray.webp",
+          "emojis": [
+            "🐠",
+            "🌊"
+          ]
+        },
+        {
+          "image_file": "This_is_Also_Fine_Spray.webp",
+          "emojis": [
+            "🙈",
+            "🔙"
+          ]
+        },
+        {
+          "image_file": "Too_Easy_Spray.webp",
+          "emojis": [
+            "🙅‍♂️",
+            "🙃"
+          ]
+        },
+        {
+          "image_file": "Treat_Those_Burns_Spray.webp",
+          "emojis": [
+            "🐍",
+            "☠️"
+          ]
+        },
+        {
+          "image_file": "VALORANT_GO_Vol_1_Jett_Spray.webp",
+          "emojis": [
+            "🥲",
+            "✅"
+          ]
+        },
+        {
+          "image_file": "VALORANT_GO_Vol_1_Reyna_Spray.webp",
+          "emojis": [
+            "🐍",
+            "🚬"
+          ]
+        },
+        {
+          "image_file": "VALORANT_GO_Vol_2_Phoenix_Spray.webp",
+          "emojis": [
+            "🙈",
+            "⌚"
+          ]
+        },
+        {
+          "image_file": "VALORANT_GO_Vol_2_Raze_Spray.webp",
+          "emojis": [
+            "🤨",
+            "🐍"
+          ]
+        },
+        {
+          "image_file": "VALORANT_GO_Vol_2_Yoru_Spray.webp",
+          "emojis": [
+            "💦",
+            "🍼"
+          ]
+        },
+        {
+          "image_file": "Who's_Next_Spray.webp",
+          "emojis": [
+            "🛟",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Wide_Swing_Spray.webp",
+          "emojis": [
+            "🐍",
+            "💚"
+          ]
+        },
+        {
+          "image_file": "With_Love,_Reyna_Spray.webp",
+          "emojis": [
+            "👟",
+            "🤫"
+          ]
+        },
+        {
+          "image_file": "Yikes_Spray.webp",
+          "emojis": [
+            "🏐",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Yoru_Spray.webp",
+          "emojis": [
+            "🕗",
+            "🔗"
+          ]
+        },
+        {
+          "image_file": "You_Are_Here_Spray.webp",
+          "emojis": [
+            "📝",
+            "⭐"
           ]
         }
       ]

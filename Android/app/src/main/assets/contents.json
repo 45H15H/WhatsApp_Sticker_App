@@ -582,6 +582,223 @@
           ]
         }
       ]
+    },
+    {
+      "identifier": "4",
+      "name": "Valorant",
+      "publisher": "Ashish Singh",
+      "tray_image_file": "Tray_Flames_in_my_Veins_Spray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "9_Lives_Spray.webp",
+          "emojis": [
+            "💀",
+            "🤥"
+          ]
+        },
+        {
+          "image_file": "200_IQ_Spray.webp",
+          "emojis": [
+            "🐕",
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "Bad_Hair_Day_Spray.webp",
+          "emojis": [
+            "😒",
+            "💥"
+          ]
+        },
+        {
+          "image_file": "Bombshell_Spray.webp",
+          "emojis": [
+            "🧒",
+            "💌"
+          ]
+        },
+        {
+          "image_file": "Bye_Op_Spray.webp",
+          "emojis": [
+            "🐍",
+            "🫰"
+          ]
+        },
+        {
+          "image_file": "Champions_2022_Jett_Diff_Spray.webp",
+          "emojis": [
+            "⭐",
+            "🌌"
+          ]
+        },
+        {
+          "image_file": "Claim_the_Crown_Spray.webp",
+          "emojis": [
+            "🤕",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Clutch_or_Kick_Spray.webp",
+          "emojis": [
+            "🥷",
+            "🎨"
+          ]
+        },
+        {
+          "image_file": "Embarrassing!_Spray.webp",
+          "emojis": [
+            "🧑‍💼",
+            "🐍"
+          ]
+        },
+        {
+          "image_file": "Flames_in_my_Veins_Spray.webp",
+          "emojis": [
+            "🧔‍♂️",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "Hang_Loose_Spray.webp",
+          "emojis": [
+            "🐠",
+            "🌊"
+          ]
+        },
+        {
+          "image_file": "Hot_Mic_Spray.webp",
+          "emojis": [
+            "🙈",
+            "🔙"
+          ]
+        },
+        {
+          "image_file": "I_Have_Three_Creds_Spray.webp",
+          "emojis": [
+            "🙅‍♂️",
+            "🙃"
+          ]
+        },
+        {
+          "image_file": "I_Sleep_Spray.webp",
+          "emojis": [
+            "🐍",
+            "☠️"
+          ]
+        },
+        {
+          "image_file": "Immortalized_Spray.webp",
+          "emojis": [
+            "🥲",
+            "✅"
+          ]
+        },
+        {
+          "image_file": "It's_Lit_Spray.webp",
+          "emojis": [
+            "🐍",
+            "🚬"
+          ]
+        },
+        {
+          "image_file": "Jett_Spray.webp",
+          "emojis": [
+            "🙈",
+            "⌚"
+          ]
+        },
+        {
+          "image_file": "Leer_Spray.webp",
+          "emojis": [
+            "🤨",
+            "🐍"
+          ]
+        },
+        {
+          "image_file": "Let_Me_In_Spray.webp",
+          "emojis": [
+            "💦",
+            "🍼"
+          ]
+        },
+        {
+          "image_file": "Make_'em_Dance_Spray.webp",
+          "emojis": [
+            "🛟",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Many_Thanks_Spray.webp",
+          "emojis": [
+            "🐍",
+            "💚"
+          ]
+        },
+        {
+          "image_file": "MY_EYES_Spray.webp",
+          "emojis": [
+            "👟",
+            "🤫"
+          ]
+        },
+        {
+          "image_file": "Neon_Bot_Spray.webp",
+          "emojis": [
+            "🏐",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Nice_to_Zap_You_Spray.webp",
+          "emojis": [
+            "🕗",
+            "🔗"
+          ]
+        },
+        {
+          "image_file": "No_Worries_Neon_Spray.webp",
+          "emojis": [
+            "📝",
+            "⭐"
+          ]
+        },
+        {
+          "image_file": "OTL_Spray.webp",
+          "emojis": [
+            "📝",
+            "🙅‍♂️"
+          ]
+        },
+        {
+          "image_file": "Perfectly_Roasted_Spray.webp",
+          "emojis": [
+            "📝",
+            "🙅‍♂️"
+          ]
+        },
+        {
+          "image_file": "Phoenix_Rise_Spray.webp",
+          "emojis": [
+            "📝",
+            "🙅‍♂️"
+          ]
+        },
+        {
+          "image_file": "Phoenix_Spray.webp",
+          "emojis": [
+            "📝",
+            "🙅‍♂️"
+          ]
+        }
+      ]
     }
   ]
 }

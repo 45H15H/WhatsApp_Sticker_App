@@ -1303,16 +1303,128 @@
           ]
         },
         {
-          "image_file": "Tray_Dabbing_Dan_Spray.webp",
+          "image_file": "Trevor_Gets_It_Spray.webp",
+          "emojis": [
+            "🐍",
+            "☠️"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Valorant",
+      "publisher": "Ashish Singh",
+      "tray_image_file": "Tray_Dabbing_Dan_Spray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "All_Aboard_Spray.webp",
+          "emojis": [
+            "💀",
+            "🤥"
+          ]
+        },
+        {
+          "image_file": "Boom_Spray.webp",
+          "emojis": [
+            "🐕",
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "Calculated_Spray.webp",
+          "emojis": [
+            "😒",
+            "💥"
+          ]
+        },
+        {
+          "image_file": "Dream_Team_Spray.webp",
+          "emojis": [
+            "🧒",
+            "💌"
+          ]
+        },
+        {
+          "image_file": "FF_Spray.webp",
+          "emojis": [
+            "🐍",
+            "🫰"
+          ]
+        },
+        {
+          "image_file": "GG_Shooter_Spray.webp",
+          "emojis": [
+            "⭐",
+            "🌌"
+          ]
+        },
+        {
+          "image_file": "GGWP_Spray.webp",
+          "emojis": [
+            "🤕",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "GLHF_Spray.webp",
+          "emojis": [
+            "🥷",
+            "🎨"
+          ]
+        },
+        {
+          "image_file": "Last_Person_Standing_Spray.webp",
+          "emojis": [
+            "🧑‍💼",
+            "🐍"
+          ]
+        },
+        {
+          "image_file": "Nice_One_Spray.webp",
+          "emojis": [
+            "🧔‍♂️",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "Nice_Try_Spray.webp",
+          "emojis": [
+            "🐠",
+            "🌊"
+          ]
+        },
+        {
+          "image_file": "Sheeeeesh_Spray.webp",
+          "emojis": [
+            "🙈",
+            "🔙"
+          ]
+        },
+        {
+          "image_file": "Sketchy_AFK_Spray.webp",
           "emojis": [
             "🙅‍♂️",
             "🙃"
           ]
         },
         {
-          "image_file": "Trevor_Gets_It_Spray.webp",
+          "image_file": "Tag_Youre_Dead_Spray.webp",
           "emojis": [
             "🐍",
+            "☠️"
+          ]
+        },
+        {
+          "image_file": "We_Made_it_Spray.webp",
+          "emojis": [
+            "✅",
             "☠️"
           ]
         }

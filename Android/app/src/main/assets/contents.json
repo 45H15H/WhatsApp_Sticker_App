@@ -988,6 +988,223 @@
           ]
         }
       ]
+    },
+    {
+      "identifier": "6",
+      "name": "Valorant",
+      "publisher": "Ashish Singh",
+      "tray_image_file": "Tray_Sweetest_Match_Spray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "A_Perfect_Score_Spray.webp",
+          "emojis": [
+            "💀",
+            "🤥"
+          ]
+        },
+        {
+          "image_file": "Camper_Spray.webp",
+          "emojis": [
+            "🐕",
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "Cant_Teach_That_Spray.webp",
+          "emojis": [
+            "😒",
+            "💥"
+          ]
+        },
+        {
+          "image_file": "Cheesy_Shot_Spray.webp",
+          "emojis": [
+            "🧒",
+            "💌"
+          ]
+        },
+        {
+          "image_file": "Clip_It_Spray.webp",
+          "emojis": [
+            "🐍",
+            "🫰"
+          ]
+        },
+        {
+          "image_file": "Countdown_is_On_Spray.webp",
+          "emojis": [
+            "⭐",
+            "🌌"
+          ]
+        },
+        {
+          "image_file": "Crispy_Spray.webp",
+          "emojis": [
+            "🤕",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Dap_Team_Spray.webp",
+          "emojis": [
+            "🥷",
+            "🎨"
+          ]
+        },
+        {
+          "image_file": "Dont_Cross_Me_Spray.webp",
+          "emojis": [
+            "🧑‍💼",
+            "🐍"
+          ]
+        },
+        {
+          "image_file": "Dumpster_Fire_Spray.webp",
+          "emojis": [
+            "🧔‍♂️",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "EZ_Spray.webp",
+          "emojis": [
+            "🐠",
+            "🌊"
+          ]
+        },
+        {
+          "image_file": "GOAT_Spray.webp",
+          "emojis": [
+            "🙈",
+            "🔙"
+          ]
+        },
+        {
+          "image_file": "Good_Fortune_Spray.webp",
+          "emojis": [
+            "🙅‍♂️",
+            "🙃"
+          ]
+        },
+        {
+          "image_file": "Hydrodip_Spray.webp",
+          "emojis": [
+            "🐍",
+            "☠️"
+          ]
+        },
+        {
+          "image_file": "Lost_Connection_Spray.webp",
+          "emojis": [
+            "🥲",
+            "✅"
+          ]
+        },
+        {
+          "image_file": "Max_Money_Spray.webp",
+          "emojis": [
+            "🐍",
+            "🚬"
+          ]
+        },
+        {
+          "image_file": "Nope_Spray.webp",
+          "emojis": [
+            "🙈",
+            "⌚"
+          ]
+        },
+        {
+          "image_file": "Protocol_781_A_Spray.webp",
+          "emojis": [
+            "🤨",
+            "🐍"
+          ]
+        },
+        {
+          "image_file": "Salt_Shaker_Spray.webp",
+          "emojis": [
+            "💦",
+            "🍼"
+          ]
+        },
+        {
+          "image_file": "Spicy_Spray.webp",
+          "emojis": [
+            "🛟",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Super_Spray.webp",
+          "emojis": [
+            "🐍",
+            "💚"
+          ]
+        },
+        {
+          "image_file": "Sweetest_Match_Spray.webp",
+          "emojis": [
+            "👟",
+            "🤫"
+          ]
+        },
+        {
+          "image_file": "Thats_a_Blowout_Spray.webp",
+          "emojis": [
+            "🏐",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "The_Big_One_Spray.webp",
+          "emojis": [
+            "🕗",
+            "🔗"
+          ]
+        },
+        {
+          "image_file": "Turn_it_Up_Rudy_Spray.webp",
+          "emojis": [
+            "📝",
+            "⭐"
+          ]
+        },
+        {
+          "image_file": "Unconditional_Surrender_Spray.webp",
+          "emojis": [
+            "📝",
+            "🥲"
+          ]
+        },
+        {
+          "image_file": "Use_Ult_Spray.webp",
+          "emojis": [
+            "📝",
+            "✅"
+          ]
+        },
+        {
+          "image_file": "Walk_Dont_Run_Spray.webp",
+          "emojis": [
+            "📝",
+            "🚶‍♂️"
+          ]
+        },
+        {
+          "image_file": "Winners_Ribbon_Spray.webp",
+          "emojis": [
+            "📝",
+            "🐍"
+          ]
+        }
+      ]
     }
   ]
 }

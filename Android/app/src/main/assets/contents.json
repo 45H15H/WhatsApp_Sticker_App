@@ -1205,6 +1205,118 @@
           ]
         }
       ]
+    },
+    {
+      "identifier": "7",
+      "name": "Valorant",
+      "publisher": "Ashish Singh",
+      "tray_image_file": "Tray_Dabbing_Dan_Spray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Crying_Mance_Spray.webp",
+          "emojis": [
+            "💀",
+            "🤥"
+          ]
+        },
+        {
+          "image_file": "Dabbing_Dan_Spray.webp",
+          "emojis": [
+            "🐕",
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "Dolla_Dolla_Bill_Y_all_Spray.webp",
+          "emojis": [
+            "😒",
+            "💥"
+          ]
+        },
+        {
+          "image_file": "Hang_in_There_Mance_Spray.webp",
+          "emojis": [
+            "🧒",
+            "💌"
+          ]
+        },
+        {
+          "image_file": "Mance_on_a_Broom_Go_Zoom_Spray.webp",
+          "emojis": [
+            "🐍",
+            "🫰"
+          ]
+        },
+        {
+          "image_file": "Matcha_Break_Spray.webp",
+          "emojis": [
+            "⭐",
+            "🌌"
+          ]
+        },
+        {
+          "image_file": "Nice_Save_Spray.webp",
+          "emojis": [
+            "🤕",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Shreddy_Teddy_Spray.webp",
+          "emojis": [
+            "🥷",
+            "🎨"
+          ]
+        },
+        {
+          "image_file": "Slipping_Away_Spray.webp",
+          "emojis": [
+            "🧑‍💼",
+            "🐍"
+          ]
+        },
+        {
+          "image_file": "Splitting_Melons_Spray.webp",
+          "emojis": [
+            "🧔‍♂️",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "Surprised_Penguin_Spray.webp",
+          "emojis": [
+            "🐠",
+            "🌊"
+          ]
+        },
+        {
+          "image_file": "To_the_Moon_Spray.webp",
+          "emojis": [
+            "🙈",
+            "🔙"
+          ]
+        },
+        {
+          "image_file": "Tray_Dabbing_Dan_Spray.webp",
+          "emojis": [
+            "🙅‍♂️",
+            "🙃"
+          ]
+        },
+        {
+          "image_file": "Trevor_Gets_It_Spray.webp",
+          "emojis": [
+            "🐍",
+            "☠️"
+          ]
+        }
+      ]
     }
   ]
 }

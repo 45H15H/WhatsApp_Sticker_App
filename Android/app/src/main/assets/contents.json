@@ -4,8 +4,8 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Sentinel",
-      "publisher": "Valorant",
+      "name": "Valorant",
+      "publisher": "Ashish Singh",
       "tray_image_file": "Tray_Cool_Joy_Spray.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -200,8 +200,8 @@
     },
     {
       "identifier": "2",
-      "name": "Controller",
-      "publisher": "Valorant",
+      "name": "Valorant",
+      "publisher": "Ashish Singh",
       "tray_image_file": "Tray_Woke_Up_Thinking_Lineups_Spray.png",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -389,8 +389,8 @@
     },
     {
       "identifier": "3",
-      "name": "Initiator",
-      "publisher": "Valorant",
+      "name": "Valorant",
+      "publisher": "Ashish Singh",
       "tray_image_file": "Tray_Sova_Says_Sorry_Spray.png",
       "image_data_version": "1",
       "avoid_cache": false,

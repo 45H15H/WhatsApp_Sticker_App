@@ -7,7 +7,7 @@
       "name": "Valorant",
       "publisher": "Ashish Singh",
       "tray_image_file": "Tray_Cool_Joy_Spray.png",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
@@ -162,27 +162,6 @@
           ]
         },
         {
-          "image_file": "VALORANT_GO_Vol_1_Cypher_Spray.webp",
-          "emojis": [
-            "🧑‍💻",
-            "🫥"
-          ]
-        },
-        {
-          "image_file": "VALORANT_GO_Vol_1_Killjoy_Spray.webp",
-          "emojis": [
-            "👨‍💻",
-            "😃"
-          ]
-        },
-        {
-          "image_file": "VALORANT_GO_Vol_1_Sage_Spray.webp",
-          "emojis": [
-            "🦸",
-            "👩‍⚕️"
-          ]
-        },
-        {
           "image_file": "Variable_Removed_Spray.webp",
           "emojis": [
             "⚡",
@@ -203,7 +182,7 @@
       "name": "Valorant",
       "publisher": "Ashish Singh",
       "tray_image_file": "Tray_Woke_Up_Thinking_Lineups_Spray.png",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
@@ -384,6 +363,13 @@
             "📝",
             "⭐"
           ]
+        },
+        {
+          "image_file": "Spark_Shock_Spray.webp",
+          "emojis": [
+            "📝",
+            "🙅‍♂️"
+          ]
         }
       ]
     },
@@ -392,7 +378,7 @@
       "name": "Valorant",
       "publisher": "Ashish Singh",
       "tray_image_file": "Tray_Sova_Says_Sorry_Spray.png",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
@@ -425,13 +411,6 @@
           "emojis": [
             "🧒",
             "💌"
-          ]
-        },
-        {
-          "image_file": "Creature_Crew_Spray.webp",
-          "emojis": [
-            "🐍",
-            "🫰"
           ]
         },
         {
@@ -519,27 +498,6 @@
           ]
         },
         {
-          "image_file": "On_Target_Spray.webp",
-          "emojis": [
-            "🤨",
-            "🐍"
-          ]
-        },
-        {
-          "image_file": "On_the_Prowl_Spray.webp",
-          "emojis": [
-            "💦",
-            "🍼"
-          ]
-        },
-        {
-          "image_file": "On_Your_Trail_Spray.webp",
-          "emojis": [
-            "🛟",
-            "🤚"
-          ]
-        },
-        {
           "image_file": "Shock_Heart_Spray.webp",
           "emojis": [
             "🐍",
@@ -575,7 +533,7 @@
           ]
         },
         {
-          "image_file": "VALORANT_GO_Vol_2_Sova_Spray.webp",
+          "image_file": "Break_Time_Spray.webp",
           "emojis": [
             "📝",
             "🙅‍♂️"
@@ -588,7 +546,7 @@
       "name": "Valorant",
       "publisher": "Ashish Singh",
       "tray_image_file": "Tray_Flames_in_my_Veins_Spray.png",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
@@ -708,13 +666,6 @@
           ]
         },
         {
-          "image_file": "Jett_Spray.webp",
-          "emojis": [
-            "🙈",
-            "⌚"
-          ]
-        },
-        {
           "image_file": "Leer_Spray.webp",
           "emojis": [
             "🤨",
@@ -790,13 +741,6 @@
             "📝",
             "🙅‍♂️"
           ]
-        },
-        {
-          "image_file": "Phoenix_Spray.webp",
-          "emojis": [
-            "📝",
-            "🙅‍♂️"
-          ]
         }
       ]
     },
@@ -805,7 +749,7 @@
       "name": "Valorant",
       "publisher": "Ashish Singh",
       "tray_image_file": "Tray_Yikes_Spray.png",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
@@ -827,24 +771,10 @@
           ]
         },
         {
-          "image_file": "Raze_Spray.webp",
-          "emojis": [
-            "😒",
-            "💥"
-          ]
-        },
-        {
           "image_file": "Revive_Me,_Jett_Spray.webp",
           "emojis": [
             "🧒",
             "💌"
-          ]
-        },
-        {
-          "image_file": "Reyna_Spray.webp",
-          "emojis": [
-            "🐍",
-            "🫰"
           ]
         },
         {
@@ -911,41 +841,6 @@
           ]
         },
         {
-          "image_file": "VALORANT_GO_Vol_1_Jett_Spray.webp",
-          "emojis": [
-            "🥲",
-            "✅"
-          ]
-        },
-        {
-          "image_file": "VALORANT_GO_Vol_1_Reyna_Spray.webp",
-          "emojis": [
-            "🐍",
-            "🚬"
-          ]
-        },
-        {
-          "image_file": "VALORANT_GO_Vol_2_Phoenix_Spray.webp",
-          "emojis": [
-            "🙈",
-            "⌚"
-          ]
-        },
-        {
-          "image_file": "VALORANT_GO_Vol_2_Raze_Spray.webp",
-          "emojis": [
-            "🤨",
-            "🐍"
-          ]
-        },
-        {
-          "image_file": "VALORANT_GO_Vol_2_Yoru_Spray.webp",
-          "emojis": [
-            "💦",
-            "🍼"
-          ]
-        },
-        {
           "image_file": "Who's_Next_Spray.webp",
           "emojis": [
             "🛟",
@@ -974,13 +869,6 @@
           ]
         },
         {
-          "image_file": "Yoru_Spray.webp",
-          "emojis": [
-            "🕗",
-            "🔗"
-          ]
-        },
-        {
           "image_file": "You_Are_Here_Spray.webp",
           "emojis": [
             "📝",
@@ -994,7 +882,7 @@
       "name": "Valorant",
       "publisher": "Ashish Singh",
       "tray_image_file": "Tray_Sweetest_Match_Spray.png",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
@@ -1211,7 +1099,7 @@
       "name": "Valorant",
       "publisher": "Ashish Singh",
       "tray_image_file": "Tray_Surprised_Penguin_Spray.png",
-      "image_data_version": "1",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
@@ -1247,66 +1135,10 @@
           ]
         },
         {
-          "image_file": "Mance_on_a_Broom_Go_Zoom_Spray.webp",
+          "image_file": "Vitality_Vial_Spray.webp",
           "emojis": [
             "🐍",
             "🫰"
-          ]
-        },
-        {
-          "image_file": "Matcha_Break_Spray.webp",
-          "emojis": [
-            "⭐",
-            "🌌"
-          ]
-        },
-        {
-          "image_file": "Nice_Save_Spray.webp",
-          "emojis": [
-            "🤕",
-            "🤚"
-          ]
-        },
-        {
-          "image_file": "Shreddy_Teddy_Spray.webp",
-          "emojis": [
-            "🥷",
-            "🎨"
-          ]
-        },
-        {
-          "image_file": "Slipping_Away_Spray.webp",
-          "emojis": [
-            "🧑‍💼",
-            "🐍"
-          ]
-        },
-        {
-          "image_file": "Splitting_Melons_Spray.webp",
-          "emojis": [
-            "🧔‍♂️",
-            "😜"
-          ]
-        },
-        {
-          "image_file": "Surprised_Penguin_Spray.webp",
-          "emojis": [
-            "🐠",
-            "🌊"
-          ]
-        },
-        {
-          "image_file": "To_the_Moon_Spray.webp",
-          "emojis": [
-            "🙈",
-            "🔙"
-          ]
-        },
-        {
-          "image_file": "Trevor_Gets_It_Spray.webp",
-          "emojis": [
-            "🐍",
-            "☠️"
           ]
         }
       ]
@@ -1315,8 +1147,8 @@
       "identifier": "8",
       "name": "Valorant",
       "publisher": "Ashish Singh",
-      "tray_image_file": "Tray_Nice_One_Spray.png",
-      "image_data_version": "1",
+      "tray_image_file": "GGWP_Spray.png",
+      "image_data_version": "2",
       "avoid_cache": false,
       "publisher_email": "",
       "publisher_website": "",
@@ -1387,7 +1219,7 @@
           ]
         },
         {
-          "image_file": "Nice_Try_Spray.webp",
+          "image_file": "All_Aboard_Spray.webp",
           "emojis": [
             "🐠",
             "🌊"
@@ -1420,8 +1252,444 @@
             "✅",
             "☠️"
           ]
+        },
+        {
+          "image_file": "Already_Locked_Spray.webp",
+          "emojis": [
+            "🐍",
+            "❌"
+          ]
+        },
+        {
+          "image_file": "Buy_Me_Spray.webp",
+          "emojis": [
+            "🛒",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Secret_Sequence_Spray.webp",
+          "emojis": [
+            "🔒",
+            "🔑"
+          ]
+        },
+        {
+          "image_file": "Rush_Forward_Spray.webp",
+          "emojis": [
+            "🏃‍♂️",
+            "🤚"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Valorant",
+      "publisher": "Ashish Singh",
+      "tray_image_file": "Don't_Ask_Spray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "All_Yuck,_No_Yum_Spray.webp",
+          "emojis": [
+            "💀",
+            "🤥"
+          ]
+        },
+        {
+          "image_file": "Close_Call_Spray.webp",
+          "emojis": [
+            "🐕",
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "Crossed_Wires_Spray.webp",
+          "emojis": [
+            "😒",
+            "💥"
+          ]
+        },
+        {
+          "image_file": "Defuse_Deception_Spray.webp",
+          "emojis": [
+            "🧒",
+            "💌"
+          ]
+        },
+        {
+          "image_file": "Don't_Ask_Spray.webp",
+          "emojis": [
+            "🐍",
+            "🫰"
+          ]
+        },
+        {
+          "image_file": "Don't_Look_Back_Spray.webp",
+          "emojis": [
+            "⭐",
+            "🌌"
+          ]
+        },
+        {
+          "image_file": "Ego_Boost_Spray.webp",
+          "emojis": [
+            "🤕",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Exit_Wound_Spray.webp",
+          "emojis": [
+            "🥷",
+            "🎨"
+          ]
+        },
+        {
+          "image_file": "Keep_It_Cool_Spray.webp",
+          "emojis": [
+            "🧑‍💼",
+            "🐍"
+          ]
+        },
+        {
+          "image_file": "No_Pen_Spray.webp",
+          "emojis": [
+            "🧔‍♂️",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "Not_Your_Healer_Spray.webp",
+          "emojis": [
+            "🐠",
+            "🌊"
+          ]
+        },
+        {
+          "image_file": "Oh_I_See_Spray.webp",
+          "emojis": [
+            "🙈",
+            "🔙"
+          ]
+        },
+        {
+          "image_file": "One_Last_Bite_Spray.webp",
+          "emojis": [
+            "🙅‍♂️",
+            "🙃"
+          ]
+        },
+        {
+          "image_file": "Penalty_Call_Spray.webp",
+          "emojis": [
+            "🐍",
+            "☠️"
+          ]
+        },
+        {
+          "image_file": "Perfect_Disaster_Spray.webp",
+          "emojis": [
+            "🥲",
+            "✅"
+          ]
+        },
+        {
+          "image_file": "Pros_Don't_Fake_Spray.webp",
+          "emojis": [
+            "🐍",
+            "🚬"
+          ]
+        },
+        {
+          "image_file": "Pumped_Up_Spray.webp",
+          "emojis": [
+            "🙈",
+            "⌚"
+          ]
+        },
+        {
+          "image_file": "Role_Denial_Spray.webp",
+          "emojis": [
+            "🤨",
+            "🐍"
+          ]
+        },
+        {
+          "image_file": "Shhh_Spray.webp",
+          "emojis": [
+            "💦",
+            "🍼"
+          ]
+        },
+        {
+          "image_file": "Smoke_Maze_Spray.webp",
+          "emojis": [
+            "🛟",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Techies_Trouble_Spray.webp",
+          "emojis": [
+            "🐍",
+            "💚"
+          ]
+        },
+        {
+          "image_file": "The_Big_Bet_Spray.webp",
+          "emojis": [
+            "👟",
+            "🤫"
+          ]
+        },
+        {
+          "image_file": "The_Great_Responsibility_Spray.webp",
+          "emojis": [
+            "🏐",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Updraft_Scare_Spray.webp",
+          "emojis": [
+            "🕗",
+            "🔗"
+          ]
+        },
+        {
+          "image_file": "Walk_Dont_Run_Spray.webp",
+          "emojis": [
+            "📝",
+            "⭐"
+          ]
+        },
+        {
+          "image_file": "Well_Played_Spray.webp",
+          "emojis": [
+            "📝",
+            "🙅‍♂️"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Valorant",
+      "publisher": "Ashish Singh",
+      "tray_image_file": "In_the_Zone_Spray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "9_Lives_Spray.gif",
+          "emojis": [
+            "💀",
+            "🤥"
+          ]
+        },
+        {
+          "image_file": "Approved!_Spray.gif",
+          "emojis": [
+            "🐕",
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "Artisan_Spray.gif",
+          "emojis": [
+            "😒",
+            "💥"
+          ]
+        },
+        {
+          "image_file": "Bazooka_Badger_Spray.gif",
+          "emojis": [
+            "🧒",
+            "💌"
+          ]
+        },
+        {
+          "image_file": "Blush_Spray.gif",
+          "emojis": [
+            "🐍",
+            "🫰"
+          ]
+        },
+        {
+          "image_file": "Bruno's_Happy_Dance_Spray.gif",
+          "emojis": [
+            "⭐",
+            "🌌"
+          ]
+        },
+        {
+          "image_file": "Bunny_Hop_Spray.gif",
+          "emojis": [
+            "🤕",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Celestial_Spray.gif",
+          "emojis": [
+            "🥷",
+            "🎨"
+          ]
+        },
+        {
+          "image_file": "Choose_my_Weapon_Spray.gif",
+          "emojis": [
+            "🧑‍💼",
+            "🐍"
+          ]
+        },
+        {
+          "image_file": "Choose_Your_Match_Spray.gif",
+          "emojis": [
+            "🧔‍♂️",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "Clip_It_Spray.gif",
+          "emojis": [
+            "🐠",
+            "🌊"
+          ]
+        },
+        {
+          "image_file": "Countdown_is_On_Spray.gif",
+          "emojis": [
+            "🙈",
+            "🔙"
+          ]
+        },
+        {
+          "image_file": "Dance_Fever_Spray.gif",
+          "emojis": [
+            "🙅‍♂️",
+            "🙃"
+          ]
+        },
+        {
+          "image_file": "Does_Not_Compute_Spray.gif",
+          "emojis": [
+            "🐍",
+            "☠️"
+          ]
+        },
+        {
+          "image_file": "Fakeout_Spray.gif",
+          "emojis": [
+            "🥲",
+            "✅"
+          ]
+        },
+        {
+          "image_file": "Gaias_Vengeance_Ep_7_Spray.gif",
+          "emojis": [
+            "🐍",
+            "🚬"
+          ]
+        },
+        {
+          "image_file": "Getting_Reps_Spray.gif",
+          "emojis": [
+            "🙈",
+            "⌚"
+          ]
+        },
+        {
+          "image_file": "Googly_Moogly_Spray.gif",
+          "emojis": [
+            "🤨",
+            "🐍"
+          ]
+        },
+        {
+          "image_file": "In_the_Zone_Spray.gif",
+          "emojis": [
+            "💦",
+            "🍼"
+          ]
+        },
+        {
+          "image_file": "Luna_Spray.gif",
+          "emojis": [
+            "🛟",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Make_Some_Noise_Spray.gif",
+          "emojis": [
+            "🐍",
+            "💚"
+          ]
+        },
+        {
+          "image_file": "Nice_One_Spray.gif",
+          "emojis": [
+            "👟",
+            "🤫"
+          ]
+        },
+        {
+          "image_file": "Perfectly_Roasted_Spray.gif",
+          "emojis": [
+            "🏐",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Pocket_Sage_Spray.gif",
+          "emojis": [
+            "🕗",
+            "🔗"
+          ]
+        },
+        {
+          "image_file": "Pulse_Check_Spray.gif",
+          "emojis": [
+            "📝",
+            "⭐"
+          ]
+        },
+        {
+          "image_file": "Purrfect_Pat_Spray.gif",
+          "emojis": [
+            "📝",
+            "🙅‍♂️"
+          ]
+        },
+        {
+          "image_file": "Scoop_of_Smoke_Spray.gif",
+          "emojis": [
+            "📝",
+            "🥲"
+          ]
+        },
+        {
+          "image_file": "Too_Early_for_This_Spray.gif",
+          "emojis": [
+            "📝",
+            "✅"
+          ]
         }
       ]
     }
   ]
 }
+

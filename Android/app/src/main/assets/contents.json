@@ -160,6 +160,62 @@
             "⚡",
             "🎗️"
           ]
+        },
+        {
+          "image_file": "Sure_You_Can_Spray.webp",
+          "emojis": [
+            "👍",
+            "👌"
+          ]
+        },
+        {
+          "image_file": "No_Comment_Spray.webp",
+          "emojis": [
+            "🤐",
+            "🤫"
+          ]
+        },
+        {
+          "image_file": "Power_of_Five_Spray.webp",
+          "emojis": [
+            "🔥",
+            "🖐️"
+          ]
+        },
+        {
+          "image_file": "We_Did_It_Team_Spray.webp",
+          "emojis": [
+            "👏",
+            "✅"
+          ]
+        },
+        {
+          "image_file": "Sending_Love_Spray.webp",
+          "emojis": [
+            "❤️",
+            "💌"
+          ]
+        },
+        {
+          "image_file": "No_Bodyblock_Spray.webp",
+          "emojis": [
+            "🚫",
+            "🧍"
+          ]
+        },
+        {
+          "image_file": "NO._1_Fan_Spray.webp",
+          "emojis": [
+            "🥇",
+            "👏"
+          ]
+        },
+        {
+          "image_file": "Maybe_Next_Time_Spray.webp",
+          "emojis": [
+            "🤞",
+            "🕰️"
+          ]
         }
       ]
     },
@@ -349,6 +405,34 @@
             "📝",
             "🙅‍♂️"
           ]
+        },
+        {
+          "image_file": "Make_It_Rain_Spray.webp",
+          "emojis": [
+            "📝",
+            "🌧️"
+          ]
+        },
+        {
+          "image_file": "Just_Another_Wave_Spray.webp",
+          "emojis": [
+            "📝",
+            "🌊"
+          ]
+        },
+        {
+          "image_file": "Hold_Back_Spray.webp",
+          "emojis": [
+            "📝",
+            "🤚"
+          ]
+        },
+        {
+          "image_file": "Hearts_Array_Spray.webp",
+          "emojis": [
+            "📝",
+            "💚"
+          ]
         }
       ]
     },
@@ -516,6 +600,13 @@
           "emojis": [
             "📝",
             "🙅‍♂️"
+          ]
+        },
+        {
+          "image_file": "Drink_Up_Spray.webp",
+          "emojis": [
+            "📝",
+            "🍼"
           ]
         }
       ]
@@ -702,6 +793,13 @@
         },
         {
           "image_file": "Phoenix_Rise_Spray.webp",
+          "emojis": [
+            "📝",
+            "🙅‍♂️"
+          ]
+        },
+        {
+          "image_file": "Cover_Me_Spray.webp",
           "emojis": [
             "📝",
             "🙅‍♂️"
@@ -1042,6 +1140,20 @@
             "📝",
             "🐍"
           ]
+        },
+        {
+          "image_file": "Gotta_One_Tap_Spray.webp",
+          "emojis": [
+            "📝",
+            "🔫"
+          ]
+        },
+        {
+          "image_file": "Double_Tap_Spray.webp",
+          "emojis": [
+            "✨",
+            "🔫"
+          ]
         }
       ]
     },
@@ -1090,6 +1202,13 @@
           "emojis": [
             "🐍",
             "🫰"
+          ]
+        },
+        {
+          "image_file": "Hang_in_There_Spray.webp",
+          "emojis": [
+            "⭐",
+            "🌌"
           ]
         }
       ]
@@ -1223,6 +1342,13 @@
           "emojis": [
             "🏃‍♂️",
             "🤚"
+          ]
+        },
+        {
+          "image_file": "Clutch_Spray.webp",
+          "emojis": [
+            "🤚",
+            "✔️"
           ]
         }
       ]
@@ -1430,7 +1556,7 @@
       "animated_sticker_pack": true,
       "stickers": [
         {
-          "image_file": "9_Lives_Spray.webp",
+          "image_file": "Blinded_Again_Spray.webp",
           "emojis": [
             "💀",
             "🤥"
@@ -1444,7 +1570,7 @@
           ]
         },
         {
-          "image_file": "Artisan_Spray.webp",
+          "image_file": "Go_Team_Go_Spray.webp",
           "emojis": [
             "😒",
             "💥"
@@ -1458,7 +1584,7 @@
           ]
         },
         {
-          "image_file": "Blush_Spray.webp",
+          "image_file": "Deep_Breath_Spray.webp",
           "emojis": [
             "🐍",
             "🫰"
@@ -1479,21 +1605,21 @@
           ]
         },
         {
-          "image_file": "Choose_Your_Match_Spray.webp",
+          "image_file": "Boomtastic_Spray.webp",
           "emojis": [
             "🧔‍♂️",
             "😜"
           ]
         },
         {
-          "image_file": "Clip_It_Spray.webp",
+          "image_file": "Wee_Punk_Spray.webp",
           "emojis": [
             "🐠",
             "🌊"
           ]
         },
         {
-          "image_file": "Countdown_is_On_Spray.webp",
+          "image_file": "Not_Today_Spray.webp",
           "emojis": [
             "🙈",
             "🔙"
@@ -1507,7 +1633,7 @@
           ]
         },
         {
-          "image_file": "Does_Not_Compute_Spray.webp",
+          "image_file": "Savory_Spice_Spray.webp",
           "emojis": [
             "🐍",
             "☠️"
@@ -1521,14 +1647,14 @@
           ]
         },
         {
-          "image_file": "Gaias_Vengeance_Ep_7_Spray.webp",
+          "image_file": "Bubble_Pop_Spray.webp",
           "emojis": [
             "🐍",
             "🚬"
           ]
         },
         {
-          "image_file": "Getting_Reps_Spray.webp",
+          "image_file": "Salt_Shaker_Spray.webp",
           "emojis": [
             "🙈",
             "⌚"
@@ -1549,7 +1675,7 @@
           ]
         },
         {
-          "image_file": "Luna_Spray.webp",
+          "image_file": "Cuteness_Overload_Spray.webp",
           "emojis": [
             "🛟",
             "🤚"
